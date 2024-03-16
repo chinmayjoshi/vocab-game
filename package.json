@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/chinmayjoshi/vocab-game#readme",
   "dependencies": {
+    "langchain": "^0.1.28",
     "netlify-lambda": "^2.0.16",
     "telegraf": "^4.16.3"
   }
